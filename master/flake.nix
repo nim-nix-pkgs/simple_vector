@@ -9,7 +9,7 @@
   
   inputs.src-simple_vector-master.flake = false;
   inputs.src-simple_vector-master.owner = "Ephiiz";
-  inputs.src-simple_vector-master.ref   = "refs/heads/master";
+  inputs.src-simple_vector-master.ref   = "master";
   inputs.src-simple_vector-master.repo  = "simple_vector";
   inputs.src-simple_vector-master.type  = "github";
   
